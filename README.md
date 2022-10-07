@@ -5,4 +5,4 @@ Usage instructions:
 
 1.Open the OpenHardWareMonitor folder and run the OpenHardWareMonitor.exe
 
-1.Open the VoltPrint.exe file to run the program
+2.Open the VoltPrint.exe file to run the program
