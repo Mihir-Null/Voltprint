@@ -3,6 +3,6 @@ Voltprint - A program that measures PC power consumption, displaying it as a run
 
 Usage instructions:
 
-Open the OpenHardWareMonitor folder and run the OpenHardWareMonitor.exe
+1.Open the OpenHardWareMonitor folder and run the OpenHardWareMonitor.exe
 
-Open the VoltPrint.exe file to run the program
+1.Open the VoltPrint.exe file to run the program
